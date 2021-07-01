@@ -3,6 +3,8 @@ a better khinsider downloader.
 
 I wanna do my best to make this.
 
+**still not fully tested, if you found any error, post an issue.**
+
 ![aaaaaa](https://user-images.githubusercontent.com/67857702/123995918-5f158380-da01-11eb-8868-b687643d4730.gif)
 
 How to use:
