@@ -21,3 +21,11 @@ example:
 1. run app, press '2' then 'Enter', it'll ask you input 'Albums By Letter'.
 2. input ONE LETTER (#, A, B, C ..., Z) then 'Enter'.
 3. Soon the new 'khlist.txt' will generated with all url lines, press '1' to download now or just quit.
+
+
+
+
+known bugs:
+
+1. random, but what can I do?
+![image](https://user-images.githubusercontent.com/67857702/124161794-69528300-dad0-11eb-8627-222cbe7f8557.png)
