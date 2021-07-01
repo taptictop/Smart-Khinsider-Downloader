@@ -11,7 +11,9 @@ How to use:
 - manual:
 1. Rename 'khlist - sample.txt' to 'khlist.txt', or just create a new 'khlist.txt', insert links 1by1 per line.
 example:
-![image](https://user-images.githubusercontent.com/67857702/123990691-933a7580-d9fc-11eb-9ab0-310577fcdb15.png)
+![image](https://user-images.githubusercontent.com/67857702/124154522-2b516100-dac8-11eb-9022-a2bbab5a480b.png)
+
+
 2. run app, press '1' then 'Enter', download will be started.
 
 
