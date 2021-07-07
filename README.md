@@ -1,7 +1,7 @@
 # Smart-Khinsider-Downloader
 a better khinsider downloader.
 
-Mininum require: Window 10 x64, 1GB RAM.
+**Mininum require: Window 10 x64, 1GB RAM.**
 
 
 
