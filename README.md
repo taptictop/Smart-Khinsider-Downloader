@@ -2,8 +2,8 @@
 a better khinsider downloader.
 
 **Mininum require: Window 10 x64, 1GB RAM.**
-enter "release" folder and download.
 
+Enter "release" folder and download.
 
 
 ![aaaaaa](https://user-images.githubusercontent.com/67857702/123995918-5f158380-da01-11eb-8868-b687643d4730.gif)
