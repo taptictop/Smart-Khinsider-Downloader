@@ -2,9 +2,8 @@
 a better khinsider downloader.
 
 **Mininum require: Window 10 x64, 1GB RAM.**
+
 recommend >=2GB RAM for large amount of download queue on the list.
-
-
 
 ![aaaaaa](https://user-images.githubusercontent.com/67857702/123995918-5f158380-da01-11eb-8868-b687643d4730.gif)
 
